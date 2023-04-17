@@ -1,4 +1,4 @@
-# HTML Summary Report
+# Newman HTML Summary Report
 
 ![](https://github.com/farahnishu/postman-sqa-student-info/blob/master/images/Newman_Terminal_Result.png)
 
